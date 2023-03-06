@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hatem</h1>
 <h3 align="center">Full Stack Developer From Tunisia</h3>
 
-- 👨‍💻 All of my projects are available at [https://hatemghorbel.herokuapp.com/](https://hatemghorbel.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://hatemghorbel.netlify.app/](https://hatemghorbel.netlify.app/)
 
 - 📝 I regularly write articles on [https://www.hatemghorbel.me/](https://www.hatemghorbel.me/)
 
